@@ -1,0 +1,31 @@
+*{
+   margin:0%;
+   padding:0%;
+   box-sizing: border-box;
+}
+
+html,body{
+   height: 100%;
+   width: 100%;
+}
+button{
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: burlywood;
+}
+h1{
+    background-color: rgb(8, 117, 110);
+    width: fit-content;
+    font-size: 100px;
+    padding: 10px 80px;
+    border-radius: 5px;
+    margin: 10px;
+}
+h2{
+   font-weight: bolder;
+   font-size: x-large;
+   padding: 10px 80px;
+   margin: 10px;
+   background-color: rgb(198, 160, 114);
+   width: fit-content;
+}
